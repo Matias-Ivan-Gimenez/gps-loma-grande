@@ -1,0 +1,9 @@
+/build
+/app/build
+/.gradle
+/.idea
+local.properties
+# Clave de firma: NUNCA se comparte ni se sube a ningún lado.
+keystore.properties
+*.jks
+*.keystore

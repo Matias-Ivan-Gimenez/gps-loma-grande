@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Logo de Expreso Loma Grande centrado dentro de la zona segura del ícono adaptable (108 dp). -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:width="60dp"
+        android:height="13.3dp"
+        android:gravity="center">
+        <bitmap
+            android:filter="true"
+            android:gravity="fill"
+            android:src="@drawable/logo_expreso" />
+    </item>
+</layer-list>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Logo para la pantalla de inicio (Android 12 o más): cabe dentro del círculo visible de 192 dp. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:width="288dp"
+        android:height="288dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#00000000" />
+        </shape>
+    </item>
+    <item
+        android:width="176dp"
+        android:height="39.1dp"
+        android:gravity="center">
+        <bitmap
+            android:filter="true"
+            android:gravity="fill"
+            android:src="@drawable/logo_expreso" />
+    </item>
+</layer-list>

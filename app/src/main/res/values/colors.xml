@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gps_navy">#061747</color>
+    <color name="gps_blue">#4285F4</color>
+    <color name="gps_white">#FFFFFF</color>
+    <color name="gps_text">#14213A</color>
+    <color name="gps_muted">#68758A</color>
+    <color name="icon_background">#000000</color>
+</resources>

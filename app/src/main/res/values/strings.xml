@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Expreso Loma Grande</string>
+
+    <!-- Repositorio de GitHub donde se publican las versiones nuevas (usuario/repositorio). Vacío = sin avisos. -->
+    <string name="update_repo" translatable="false">Matias-Ivan-Gimenez/gps-loma-grande</string>
+
+    <string name="loading">Cargando…</string>
+    <string name="offline_title">Sin conexión</string>
+    <string name="offline_text">No se pudo abrir el seguimiento GPS. Revise la conexión a Internet del celular e intente de nuevo.</string>
+    <string name="server_error_text">El servidor no respondió correctamente. Intente de nuevo en unos minutos.</string>
+    <string name="ssl_error_text">La conexión con el servidor no es segura, por eso no se abrió la página. Verifique la fecha y la hora del celular.</string>
+    <string name="retry">Reintentar</string>
+
+    <!-- Actualizaciones -->
+    <string name="update_title">Nueva versión disponible</string>
+    <string name="update_message">Hay una versión nueva de Expreso Loma Grande (%1$s). Se descarga y se instala encima, sin perder nada. ¿Desea actualizar ahora?</string>
+    <string name="update_now">Actualizar</string>
+    <string name="update_later">Más tarde</string>
+
+    <!-- Entrada rápida con huella -->
+    <string name="quick_title">Entrar más rápido</string>
+    <string name="quick_message">¿Quiere entrar la próxima vez con su huella o con el bloqueo de pantalla? Su usuario y contraseña se guardan cifrados en este celular y solo se abren con su huella o su PIN.</string>
+    <string name="quick_enable">Activar</string>
+    <string name="quick_not_now">Ahora no</string>
+    <string name="quick_never">No preguntar más</string>
+    <string name="quick_need_lock">Para usar la huella, primero active un bloqueo de pantalla (huella, PIN o patrón) en el celular.</string>
+    <string name="quick_saved">Listo. La próxima vez podrá entrar con su huella.</string>
+    <string name="quick_save_error">No se pudo guardar el acceso. Intente de nuevo.</string>
+    <string name="quick_enter">Entrar con huella</string>
+    <string name="quick_forget">Olvidar acceso</string>
+    <string name="quick_forget_title">¿Olvidar el acceso guardado?</string>
+    <string name="quick_forget_message">Se borrará el usuario y la contraseña guardados en este celular. Tendrá que escribirlos de nuevo.</string>
+    <string name="quick_forget_yes">Olvidar</string>
+    <string name="quick_forgotten">Se borró el acceso guardado.</string>
+    <string name="quick_prompt_title">Expreso Loma Grande</string>
+    <string name="quick_prompt_enter">Confirme que es usted para entrar</string>
+    <string name="quick_prompt_save">Confirme que es usted para guardar el acceso</string>
+    <string name="quick_use_password">Usar contraseña</string>
+    <string name="quick_invalidated">La huella o el bloqueo del celular cambió, por seguridad se borró el acceso guardado. Escriba su contraseña y vuelva a activarlo.</string>
+    <string name="quick_failed">No se pudo entrar con el acceso guardado. Si cambió su contraseña, toque «Olvidar acceso» y escríbala de nuevo.</string>
+</resources>
